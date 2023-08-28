@@ -1,5 +1,7 @@
 # Random Machine Quote Generator
 
+![Screenshot](./screenshot.png)
+
 This is a simple React project that generates random quotes and changes the color using two APIs. It's a fun way to get inspired or just add some randomness to your day.
 
 ## Technologies Used
