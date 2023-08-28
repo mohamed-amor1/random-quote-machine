@@ -27,7 +27,7 @@ This is a simple React project that generates random quotes and changes the colo
 
 ## How to Use
 
-You can check this app on [Vercel](https://vercel.com/)
+You can check this app on [Netlify](https://64eccc3c21896e3350b829ea--magenta-crostata-58fa00.netlify.app/)
 
 Contributions are welcome! If you'd like to add new features, fix bugs, or improve the project in any way, please open an issue or create a pull request.
 
