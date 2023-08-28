@@ -22,8 +22,8 @@ This is a simple React project that generates random quotes and changes the colo
 
 ## Features
 
-- **Generate Random Quote:** Click the "Generate Quote" button to get a random quote and change the background color.
-- **Tweet Quote:** Share the quote and author on Twitter by clicking the "Tweet" button.
+- **Generate Random Quote:** Click the "New quote" button to get a random quote and change the background color.
+- **Tweet Quote:** Share the quote and author on Twitter by clicking the "Tweet" Icon.
 
 ## How to Use
 
